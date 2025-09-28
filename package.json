@@ -1,0 +1,19 @@
+{
+  "name": "cypress_testing_patterns",
+  "version": "1.0.0",
+  "description": "Simple project showing test petterns",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcs-ns/cypress_testing_patterns.git"
+  },
+  "author": "Lcs-ns",
+  "license": "MIT",
+  "homepage": "https://github.com/Lcs-ns/cypress_testing_patterns#readme",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
